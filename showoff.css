@@ -1,0 +1,25 @@
+header, body{  
+    font-family: monospace, arial, sans-serif;
+    color: white;
+}
+header{
+    background-color: #242423;
+}
+body {
+    background-color:#bdbdbd;
+    margin: 0%;
+}
+.website_title {
+    text-align: center;
+}
+.gmail, .type_your_gmail{
+display: inline-block;
+}
+.password, .TypeYourPassword{
+    display: inline-block;
+}
+.BoxForGmailAndPassword{
+    margin: 30%;
+    background-color: #242423;
+    padding: 2%;
+}
